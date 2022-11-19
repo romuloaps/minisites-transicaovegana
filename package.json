@@ -9,16 +9,16 @@
   "bugs": "https://github.com/romuloaps/transicao-vegana/issues",
   "dependencies": {
     "reshape-standard": "^1.1.0",
-    "spike": "1.3.1",
+    "spike": "2.3.0",
     "spike-css-standards": "^1.1.0",
     "spike-js-standards": "^2.0.2",
-    "webpack": "^2.6.1"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
     "ava": "^0.19.1",
     "rimraf": "^2.6.1",
     "snazzy": "^7.0.0",
-    "spike-core": "^1.0.0",
+    "spike-core": "^2.3.0",
     "standard": "^10.0.2"
   },
   "homepage": "https://github.com/romuloaps/transicao-vegana",
